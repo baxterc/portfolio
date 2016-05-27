@@ -12,17 +12,28 @@ body{
   padding-top: 80px;
 }
 
+.navnudge {
+  padding-right: 24px;
+}
+
 .header {
-  background-image: url("../img/spiritlake.jpg");
-  background-position: 50% 45%;
+  background-image: url("../img/fergbeach.jpg");
+  background-position: 50% 72%;
   background-size: cover;
-  padding-top: 24px;
+  padding-top: 48px;
+  padding-bottom: 48px;
   margin-bottom: 36px;
+  max-width: 99%;
+  margin-left: 1%;
   text-align: center;
   font-size: 32px;
   font-weight: bold;
-  text-outline: 1px 1px #fff;
-  font-family: Verdana;}
+  color: white;
+  text-shadow: 1px 1px #000;
+  font-family: Verdana;
+
+
+}
 
 .aboutme img {
   width: auto;
@@ -40,10 +51,16 @@ body{
   margin-right: auto;
 }
 
-.projects li {
+.projects ul>li {
+  list-style: none;
   font-size: 20px;
   text-align: justify;
-  padding-bottom: 16px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  margin-right: 32px;
+  background-color: white;
+
+
 }
 
 #nocushion h3{
