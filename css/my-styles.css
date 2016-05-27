@@ -16,13 +16,13 @@ body{
   padding-top: 80px;
 }
 
-.floatleft img{
+.floatleft img {
   float: left;
   padding-right: 16px;
   padding-bottom: 2px;
 }
 
-.header{
+.header {
   background-image: url("../img/spiritlake.jpg");
   background-position: 50% 45%;
   background-size: cover;
@@ -31,6 +31,10 @@ body{
   text-align: center;
   font-size: 32px;
   font-weight: bold;
-  text-shadow: 1px 1px #fff;
+  text-outline: 1px 1px #fff;
   font-family: Verdana;
+}
+.projects li {
+  font-size: 20px;
+  padding-bottom: 16px;
 }
