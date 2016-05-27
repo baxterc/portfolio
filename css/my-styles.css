@@ -1,4 +1,4 @@
-h1, h2, h3{
+h1, h2, h3 {
   text-align: center;
   color: #1D3740;
 }
@@ -7,7 +7,7 @@ h3, h4 {
   margin-bottom: 36px;
 }
 
-body{
+body {
   padding-top: 80px;
   background-color: #CFDEE3;
 }
@@ -35,7 +35,7 @@ body{
   text-shadow: 1px 1px #000;
 }
 
-.jumbocolor{
+.jumbocolor {
   background-color: #ABBCC2;
 }
 
@@ -69,6 +69,10 @@ body{
   margin-bottom: 48px;
 }
 
-#nocushion h3{
+.projects a {
+  font-size: 24px;
+}
+
+#nocushion h3 {
   margin-bottom: 0;
 }
