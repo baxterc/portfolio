@@ -1,7 +1,6 @@
-
-
 h1, h2, h3{
   text-align: center;
+  color: #1D3740;
 }
 
 h3, h4 {
@@ -10,10 +9,15 @@ h3, h4 {
 
 body{
   padding-top: 80px;
+  background-color: #CFDEE3;
 }
 
 .navnudge {
   padding-right: 24px;
+}
+
+.giconbig {
+  font-size: 14pt;
 }
 
 .header {
@@ -26,13 +30,13 @@ body{
   max-width: 99%;
   margin-left: 1%;
   text-align: center;
-  font-size: 32px;
-  font-weight: bold;
-  color: white;
+  font-size: 48pt;
+  color: #F0FBFF;
   text-shadow: 1px 1px #000;
-  font-family: Verdana;
+}
 
-
+.jumbocolor{
+  background-color: #ABBCC2;
 }
 
 .aboutme img {
@@ -58,9 +62,11 @@ body{
   padding-top: 32px;
   padding-bottom: 32px;
   margin-right: 32px;
-  background-color: white;
+}
 
-
+.projects ul {
+  background-color: #DCEDF2;
+  margin-bottom: 48px;
 }
 
 #nocushion h3{
