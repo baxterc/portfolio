@@ -45,3 +45,7 @@ body{
   text-align: justify;
   padding-bottom: 16px;
 }
+
+#nocushion h3{
+  margin-bottom: 0;
+}
