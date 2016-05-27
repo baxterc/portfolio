@@ -10,7 +10,8 @@ This web page is a portfolio space for some of the projects I've completed for E
 
 ###Setup
 1. Clone this repository
-2. Open index.html in a web browser _(may not be compatible with older versions of IE)_
+2. Open index.html in a web browser _(may not be compatible with older versions of IE)._
+
 **Alternately, you can view this page on the web at http://baxterc.github.io/portfolio**
 
 ###Technologies Used
